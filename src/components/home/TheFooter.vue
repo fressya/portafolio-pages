@@ -10,17 +10,18 @@
 </template>
 <style>
 .social-icons{
-    display: flex;
-    width: 30%;
+    display: flex; 
+    padding: 0px .9375rem;
+    width: 15.625rem;
     flex-direction: row-reverse;
     filter: invert(100%);
 }
 
 .info {
-    margin: 65px auto 0;
+    margin: 4.0625rem auto 0;
     color: #4d4d4d;
-    font-size: 11px;
-    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    font-size: .6875rem;
+    text-shadow: 0 .0625rem 0 rgba(255, 255, 255, 0.5);
     text-align: center;
 }
 

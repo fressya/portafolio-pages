@@ -7,6 +7,10 @@ import Contact from './views/TheContact.vue';
 const routes = [
   {
     path: '/',
+    redirect: '/home', 
+  },
+  {
+    path: '/home',
     name: 'Home',
     component: Home
   },

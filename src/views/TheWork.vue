@@ -1,5 +1,5 @@
 <template>
-    <section class="about-container">
+    <section class="work-container">
         <main class="main-content">
             <h1>Work</h1>
             <p>
@@ -26,7 +26,7 @@
 </script>
   
 <style scoped>
-.about-container {
+.work-container {
     padding: 32px 24px;
     margin: 0px 82px 80px;
     margin-bottom: 5rem;
@@ -44,11 +44,10 @@
 
 h1 {
     letter-spacing: -.05em;
-    margin: 48px 0px;
+    margin: 3rem 0px;
     text-align: left;
-    font-size: 48px;
+    font-size: 3rem;
     color: #111827;
-
 }
 h3{
     font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";

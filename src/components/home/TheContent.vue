@@ -19,11 +19,14 @@
     margin: 0rem 1.5rem;
     padding-bottom: 149px;
 }
-h1{
-    font-size: 28px;
-    font-family: 'Roboto';
-    font-weight: 700;
-    margin:0;
+h1 {
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji" !important;
+    letter-spacing: -.05em;
+    letter-spacing: -.05em;
+    margin: 3rem 0px;
+    text-align: left;
+    font-size: 3rem;
+    
 }
 h2{
     font-family: 'Roboto';
