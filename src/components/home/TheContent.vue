@@ -14,16 +14,16 @@
 
 <style scss="scoped">
 .intro-text{
-    padding-top: 340px;
+    padding-top: 195px;
     color: #fff;
     margin: 0rem 1.5rem;
-    padding-bottom: 149px;
+    padding-bottom: 195px;
 }
 h1 {
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji" !important;
     letter-spacing: -.05em;
     letter-spacing: -.05em;
-    margin: 3rem 0px;
+    margin: 2rem 0px;
     text-align: left;
     font-size: 3rem;
     
@@ -38,5 +38,7 @@ p{
     font-family: 'Roboto';
     font-weight: 300;
     margin:0;
+    font-size: 20px;
+
 }
 </style>
