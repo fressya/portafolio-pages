@@ -1,7 +1,7 @@
 <template>
     <header class="TheMenu">
         <div>
-            <a class="logo" href="/">
+            <a class="logo" href="/home">
                 <img class="logotipo" src="@/assets/logotipo.png" height="40" width="30" alt="Logo">
                 <span class="logo-text">Fressya Gomez</span>
             </a>
